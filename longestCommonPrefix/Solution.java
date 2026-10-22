@@ -9,7 +9,7 @@ class Solution {
                  || strs[0].charAt(i) != strs[j].charAt(i)) {
 
             }
-
+{}
         }
         return"";
     }
